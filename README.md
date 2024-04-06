@@ -1,3 +1,4 @@
 # Linear-Regression-Used-Car-Prices
-This is a linear regression to predict used car prices i the Indian used car market.
+Used Car Price Prediction With Linear Regression - 
+This notebook demonstrates a model to predict the prices of used cars in the Indian market.
 
